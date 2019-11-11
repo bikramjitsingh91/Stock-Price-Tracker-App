@@ -1,0 +1,11 @@
+D:\myRepo\StockPriceTracker\StockPriceTracker\obj\Debug\netcoreapp3.0\StockPriceTracker.AssemblyInfoInputs.cache
+D:\myRepo\StockPriceTracker\StockPriceTracker\obj\Debug\netcoreapp3.0\StockPriceTracker.AssemblyInfo.cs
+D:\myRepo\StockPriceTracker\StockPriceTracker\bin\Debug\netcoreapp3.0\StockPriceTracker.exe
+D:\myRepo\StockPriceTracker\StockPriceTracker\bin\Debug\netcoreapp3.0\StockPriceTracker.deps.json
+D:\myRepo\StockPriceTracker\StockPriceTracker\bin\Debug\netcoreapp3.0\StockPriceTracker.runtimeconfig.json
+D:\myRepo\StockPriceTracker\StockPriceTracker\bin\Debug\netcoreapp3.0\StockPriceTracker.runtimeconfig.dev.json
+D:\myRepo\StockPriceTracker\StockPriceTracker\bin\Debug\netcoreapp3.0\StockPriceTracker.dll
+D:\myRepo\StockPriceTracker\StockPriceTracker\bin\Debug\netcoreapp3.0\StockPriceTracker.pdb
+D:\myRepo\StockPriceTracker\StockPriceTracker\obj\Debug\netcoreapp3.0\StockPriceTracker.csprojAssemblyReference.cache
+D:\myRepo\StockPriceTracker\StockPriceTracker\obj\Debug\netcoreapp3.0\StockPriceTracker.dll
+D:\myRepo\StockPriceTracker\StockPriceTracker\obj\Debug\netcoreapp3.0\StockPriceTracker.pdb
